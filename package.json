@@ -1,0 +1,23 @@
+{
+  "name": "safe-cover-letter",
+  "version": "1.0.0",
+  "description": "자기소개서 버전 관리 프로그램",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shinkeonkim/safe-cover-letter.git"
+  },
+  "author": "shinkeonkim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shinkeonkim/safe-cover-letter/issues"
+  },
+  "homepage": "https://github.com/shinkeonkim/safe-cover-letter#readme",
+  "devDependencies": {
+    "electron": "^10.1.1"
+  }
+}
